@@ -1,7 +1,7 @@
 # yii2-linkpager
 LinkPager widgets for Yii Framework 2.0
 ===============================
-![Effect picture 1](https://github.com/ran1990/yii2-linkPager/blob/master/image.png "Effect picture 1")  
+![Effect picture 1](https://github.com/ran1990/yii2-linkpager/blob/master/image.png "Effect picture 1")  
 
 
 
@@ -14,13 +14,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
- composer require  life2016/yii2-linkPager
+ composer require  life2016/yii2-linkpager
 ```
 
 or add
 
 ```
-"life2016/yii2-linkPager": "*"
+"life2016/yii2-linkpager": "*"
 ```
 
 to the require section of your `composer.json` file.
