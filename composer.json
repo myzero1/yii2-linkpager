@@ -1,0 +1,22 @@
+{
+	"name": "life2016/yii2-linkPager",
+	"description": "yii2 Widget for LinkPager",
+	"type": "yii2-extension",
+	"keywords": ["yii2","extension","yii2-widget-linkpager","linkpager"],
+	"authors": [
+		{
+			"name": "ran",
+			"email": "503948796@qq.com"
+		}
+	],
+	"minimum-stability": "stable",
+	"require": {
+		"yiisoft/yii2": "*",
+		"yiisoft/yii2-bootstrap": "*"
+	},
+	"autoload": {
+		"psr-4": {
+			"life2016\\linkpager\\": ""
+		}
+	}
+}
