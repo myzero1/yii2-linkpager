@@ -1,7 +1,6 @@
 # yii2-linkpager
 LinkPager widgets for Yii Framework 2.0
 ===============================
-Increase the pageSize of the page drop-down box
 ![Effect picture 1](https://github.com/ran1990/yii2-linkPager/blob/master/image.png "Effect picture 1")  
 
 
