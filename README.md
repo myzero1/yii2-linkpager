@@ -18,7 +18,6 @@ Either run
 ```
 
 or add
-
 ```
 "life2016/yii2-linkpager": "*"
 ```
